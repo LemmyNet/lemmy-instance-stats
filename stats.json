@@ -1,8 +1,8 @@
 {
   "crawled_instances": 15,
   "failed_instances": 4,
-  "total_users": 15036,
-  "total_online_users": 161,
+  "total_users": 15038,
+  "total_online_users": 151,
   "instance_details": [
     {
       "domain": "lemmy.ml",
@@ -11,9 +11,9 @@
       "version": "0.11.2",
       "icon": "https://lemmy.ml/pictrs/image/bhQ7ELa4oq.webp",
       "online_users": 126,
-      "total_users": 10649,
-      "users_active_halfyear": 1868,
-      "users_active_month": 591,
+      "total_users": 10651,
+      "users_active_halfyear": 1870,
+      "users_active_month": 594,
       "open_registrations": true,
       "linked_instances_count": 22
     },
@@ -36,10 +36,10 @@
       "description": null,
       "version": "0.9.7",
       "icon": null,
-      "online_users": 8,
+      "online_users": 3,
       "total_users": 483,
-      "users_active_halfyear": 144,
-      "users_active_month": 70,
+      "users_active_halfyear": 145,
+      "users_active_month": 71,
       "open_registrations": true,
       "linked_instances_count": 0
     },
@@ -62,7 +62,7 @@
       "description": null,
       "version": "0.11.2",
       "icon": "https://lemmy.161.social/pictrs/image/miFGgnYPfn.png",
-      "online_users": 9,
+      "online_users": 8,
       "total_users": 318,
       "users_active_halfyear": 80,
       "users_active_month": 24,
@@ -88,9 +88,9 @@
       "description": null,
       "version": "0.11.0",
       "icon": "https://baraza.africa/pictrs/image/qFpb6BEV2c.png",
-      "online_users": 2,
+      "online_users": 0,
       "total_users": 43,
-      "users_active_halfyear": 21,
+      "users_active_halfyear": 20,
       "users_active_month": 9,
       "open_registrations": true,
       "linked_instances_count": 10
@@ -101,7 +101,7 @@
       "description": null,
       "version": "0.11.0",
       "icon": "https://sopuli.xyz/pictrs/image/bFrkM7fL8u.png",
-      "online_users": 4,
+      "online_users": 3,
       "total_users": 50,
       "users_active_halfyear": 25,
       "users_active_month": 8,
@@ -114,7 +114,7 @@
       "description": null,
       "version": "unknown version",
       "icon": "https://lemmy.ca/pictrs/image/NqUST80qkB.png",
-      "online_users": 1,
+      "online_users": 0,
       "total_users": 48,
       "users_active_halfyear": 24,
       "users_active_month": 7,
@@ -133,19 +133,6 @@
       "users_active_month": 2,
       "open_registrations": true,
       "linked_instances_count": 5
-    },
-    {
-      "domain": "mander.xyz",
-      "name": "Mander",
-      "description": null,
-      "version": "0.10.3",
-      "icon": "https://mander.xyz/pictrs/image/1Tgg5ZvH7n.png",
-      "online_users": 0,
-      "total_users": 16,
-      "users_active_halfyear": 9,
-      "users_active_month": 2,
-      "open_registrations": true,
-      "linked_instances_count": 7
     },
     {
       "domain": "fapsi.be",
@@ -185,6 +172,19 @@
       "users_active_month": 1,
       "open_registrations": false,
       "linked_instances_count": 9
+    },
+    {
+      "domain": "mander.xyz",
+      "name": "Mander",
+      "description": null,
+      "version": "0.10.3",
+      "icon": "https://mander.xyz/pictrs/image/1Tgg5ZvH7n.png",
+      "online_users": 0,
+      "total_users": 16,
+      "users_active_halfyear": 9,
+      "users_active_month": 1,
+      "open_registrations": true,
+      "linked_instances_count": 7
     },
     {
       "domain": "stammtisch.hallertau.social",
