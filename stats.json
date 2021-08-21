@@ -2,7 +2,7 @@
   "crawled_instances": 17,
   "failed_instances": 5,
   "total_users": 16328,
-  "total_online_users": 129,
+  "total_online_users": 102,
   "instance_details": [
     {
       "domain": "lemmy.ml",
@@ -10,7 +10,7 @@
       "description": "A community of leftist privacy and FOSS enthusiasts, run by Lemmy’s developers",
       "version": "0.11.3",
       "icon": "https://lemmy.ml/pictrs/image/bhQ7ELa4oq.webp",
-      "online_users": 78,
+      "online_users": 62,
       "total_users": 11538,
       "users_active_halfyear": 1822,
       "users_active_month": 536,
@@ -26,22 +26,22 @@
       "online_users": 0,
       "total_users": 238,
       "users_active_halfyear": 180,
-      "users_active_month": 132,
+      "users_active_month": 133,
       "open_registrations": true,
       "linked_instances_count": 2
     },
     {
       "domain": "szmer.info",
-      "name": "szmer",
+      "name": "SZMER",
       "description": null,
-      "version": "0.9.7",
+      "version": "0.11.3",
       "icon": null,
-      "online_users": 26,
+      "online_users": 16,
       "total_users": 553,
-      "users_active_halfyear": 151,
+      "users_active_halfyear": 152,
       "users_active_month": 66,
       "open_registrations": true,
-      "linked_instances_count": 0
+      "linked_instances_count": 1
     },
     {
       "domain": "lemmygrad.ml",
@@ -49,10 +49,10 @@
       "description": "A collection of leftist communities, for memes, learning, news, discussion, media, or anything you like.",
       "version": "0.11.3",
       "icon": "https://lemmygrad.ml/pictrs/image/gB8yP0oFF5.png",
-      "online_users": 7,
+      "online_users": 3,
       "total_users": 3099,
-      "users_active_halfyear": 221,
-      "users_active_month": 64,
+      "users_active_halfyear": 218,
+      "users_active_month": 63,
       "open_registrations": true,
       "linked_instances_count": 9
     },
@@ -62,7 +62,7 @@
       "description": null,
       "version": "0.11.3",
       "icon": "https://lemmy.161.social/pictrs/image/miFGgnYPfn.png",
-      "online_users": 1,
+      "online_users": 2,
       "total_users": 360,
       "users_active_halfyear": 88,
       "users_active_month": 26,
@@ -101,7 +101,7 @@
       "description": "Euskarazko lehen web-foro irekiak. Software librea, fedibertsoa, euskalmemeak, literatura... (Basque language)",
       "version": "0.11.3",
       "icon": "https://lemmy.eus/pictrs/image/thzN3hA4nW.png",
-      "online_users": 2,
+      "online_users": 4,
       "total_users": 163,
       "users_active_halfyear": 51,
       "users_active_month": 15,
@@ -158,7 +158,7 @@
       "users_active_halfyear": 3,
       "users_active_month": 3,
       "open_registrations": true,
-      "linked_instances_count": 4
+      "linked_instances_count": 5
     },
     {
       "domain": "stammtisch.hallertau.social",
