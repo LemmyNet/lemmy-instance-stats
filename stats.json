@@ -2,7 +2,7 @@
   "crawled_instances": 19,
   "failed_instances": 6,
   "total_users": 17199,
-  "total_online_users": 154,
+  "total_online_users": 156,
   "instance_details": [
     {
       "domain": "lemmy.ml",
@@ -36,7 +36,7 @@
       "description": "teraz z obrazkami!",
       "version": "0.12.2",
       "icon": "https://szmer.info/pictrs/image/XcQWr0D2CU.png",
-      "online_users": 12,
+      "online_users": 13,
       "total_users": 606,
       "users_active_halfyear": 169,
       "users_active_month": 87,
@@ -49,7 +49,7 @@
       "description": "A collection of leftist communities, for memes, learning, news, discussion, media, or anything you like.",
       "version": "0.12.2",
       "icon": "https://lemmygrad.ml/pictrs/image/gB8yP0oFF5.png",
-      "online_users": 13,
+      "online_users": 14,
       "total_users": 3172,
       "users_active_halfyear": 207,
       "users_active_month": 57,
