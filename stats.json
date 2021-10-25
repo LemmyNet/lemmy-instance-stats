@@ -1,8 +1,8 @@
 {
-  "crawled_instances": 20,
-  "failed_instances": 9,
-  "total_users": 18300,
-  "total_online_users": 140,
+  "crawled_instances": 21,
+  "failed_instances": 8,
+  "total_users": 18319,
+  "total_online_users": 142,
   "instance_details": [
     {
       "domain": "lemmy.ml",
@@ -10,7 +10,7 @@
       "description": "A community of leftist privacy and FOSS enthusiasts, run by Lemmy’s developers",
       "version": "0.13.3",
       "icon": "https://lemmy.ml/pictrs/image/bhQ7ELa4oq.webp",
-      "online_users": 88,
+      "online_users": 85,
       "total_users": 12768,
       "users_active_halfyear": 1708,
       "users_active_month": 545,
@@ -23,7 +23,7 @@
       "description": "szmerz informacje!",
       "version": "0.12.2",
       "icon": "https://szmer.info/pictrs/image/XcQWr0D2CU.png",
-      "online_users": 31,
+      "online_users": 33,
       "total_users": 786,
       "users_active_halfyear": 223,
       "users_active_month": 137,
@@ -49,7 +49,7 @@
       "description": "A collection of leftist communities, for memes, learning, news, discussion, media, or anything you like.",
       "version": "0.13.3",
       "icon": "https://lemmygrad.ml/pictrs/image/gB8yP0oFF5.png",
-      "online_users": 8,
+      "online_users": 9,
       "total_users": 3224,
       "users_active_halfyear": 198,
       "users_active_month": 67,
@@ -159,6 +159,19 @@
       "users_active_month": 7,
       "open_registrations": true,
       "linked_instances_count": 2
+    },
+    {
+      "domain": "midwest.social",
+      "name": "midwest.social",
+      "description": "A lemmy server for, but not limited to, the Midwest USA",
+      "version": "0.13.3",
+      "icon": null,
+      "online_users": 2,
+      "total_users": 19,
+      "users_active_halfyear": 9,
+      "users_active_month": 6,
+      "open_registrations": true,
+      "linked_instances_count": 6
     },
     {
       "domain": "stammtisch.hallertau.social",
