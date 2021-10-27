@@ -2,7 +2,7 @@
   "crawled_instances": 21,
   "failed_instances": 8,
   "total_users": 18366,
-  "total_online_users": 103,
+  "total_online_users": 104,
   "instance_details": [
     {
       "domain": "lemmy.ml",
@@ -10,7 +10,7 @@
       "description": "A community of leftist privacy and FOSS enthusiasts, run by Lemmy’s developers",
       "version": "0.13.3",
       "icon": "https://lemmy.ml/pictrs/image/bhQ7ELa4oq.webp",
-      "online_users": 78,
+      "online_users": 79,
       "total_users": 12790,
       "users_active_halfyear": 1718,
       "users_active_month": 558,
